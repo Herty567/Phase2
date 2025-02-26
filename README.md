@@ -1,5 +1,5 @@
 # Phase2
-Team members: Jacob Alicea, Josiah Concepcion, Jaime, Tim
+Team members: Jacob Alicea, Josiah Concepcion, Jamie Oliphant, Tim Saari
 
 Name of files: receiver.py, sender.py, and tiger.jpg
 
