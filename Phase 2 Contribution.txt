@@ -1,0 +1,50 @@
+﻿Contribution Document
+
+
+Tasks Implemented
+
+Josiah
+-Readme File
+-Updated Design Documents
+
+Tim
+-Plot Charts
+-Sender Source Files
+
+Jacob 
+-Sender and Receiver Source Files
+-Readme File
+
+Jamie
+-Plot Charts
+-Receiver Source Files
+
+Team Rating
+
+Josiah
+Project time completion - 5
+Design Contribution - 5
+Coding Contribution - 5
+Debugging Contribution - 5
+Report Preparation - 5
+
+Tim
+Project time completion - 5
+Design Contribution - 5
+Coding Contribution - 5
+Debugging Contribution - 5
+Report Preparation - 5
+
+Jacob 
+Project time completion - 5
+Design Contribution - 5
+Coding Contribution - 5
+Debugging Contribution - 5
+Report Preparation - 5
+
+Jamie
+Project time completion - 5
+Design Contribution - 5
+Coding Contribution - 5
+Debugging Contribution - 5
+Report Preparation - 5
